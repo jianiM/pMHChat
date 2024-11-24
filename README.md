@@ -18,9 +18,9 @@
 
 # Datasets
 
-BD2016: 5-fold CV dataset(https://services.healthtech.dtu.dk/suppl/immunology/NetMHCIIpan-3.2/)
-BD2024: Processed independent test set(http://tools.iedb.org/auto_bench/mhcii/weekly/)
-BC2015: Crystal Structures of 51 pMHC complex
++ BD2016: 5-fold CV dataset(https://services.healthtech.dtu.dk/suppl/immunology/NetMHCIIpan-3.2/)
++ BD2024: Processed independent test set(http://tools.iedb.org/auto_bench/mhcii/weekly/)
++ BC2015: Crystal Structures of 51 pMHC complex
 
 
 # Step-by-step training for pMHChat 
