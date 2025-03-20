@@ -1,4 +1,3 @@
-![workflow_of_pMHChat](https://github.com/jianiM/pMHChat/workflow.png)
 
 # Requirements
 + python == 3.9.19 
