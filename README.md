@@ -1,5 +1,5 @@
-pMHChat, Characterizing the Interactions Between MHC Class II Molecules and Peptides with LLMs and Deep Hypergraph Learning 
-This repository contains the source code for the paper pMHChat, Characterizing the Interactions Between MHC Class II Molecules and Peptides with LLMs and Deep Hypergraph Learning. 
+# pMHChat, Characterizing the Interactions Between MHC Class II Molecules and Peptides with LLMs and Deep Hypergraph Learning 
++ This repository contains the source code for the paper pMHChat, Characterizing the Interactions Between MHC Class II Molecules and Peptides with LLMs and Deep Hypergraph Learning. 
 
 ![workflow](https://github.com/jianiM/pMHChat/blob/main/workflow.png)
 
