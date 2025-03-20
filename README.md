@@ -20,11 +20,11 @@ pMHChat is developed for MHC II-peptide binding prediction with pLMs and hyperco
 + pip install -r requirements.txt 
 
 ## 2. pLMs Fine-tuning procedure
-+ # Driven by binding reactivity prediction task, pretrain and fine-tune ESM-MSA-1B and ESM-2.
++ Driven by binding reactivity prediction task, pretrain and fine-tune ESM-MSA-1B and ESM-2.
 + python llm_pretrain/main.py  
 
 ## 3. Residue Feature Generation 
-+ # Generate the residue-level feature for MHC pseudosequence and peptide sequence, as well as residue contact map of peptide
++ Generate the residue-level feature for MHC pseudosequence and peptide sequence, as well as residue contact map of peptide
 + create_mhc_features.py
 + create_peptide_features.py
     
