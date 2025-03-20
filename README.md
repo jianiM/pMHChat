@@ -1,4 +1,4 @@
-![https://github.com/jianiM/pMHChat/blob/main/workflow.png]
+![workflow]https://github.com/jianiM/pMHChat/blob/main/workflow.png
 
 
 # Requirements
